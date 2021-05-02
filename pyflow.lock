@@ -1,0 +1,8 @@
+[[package]]
+id = 1
+name = "tinydb"
+version = "4.4.0"
+source = "pypi+https://pypi.org/pypi/tinydb/4.4.0/json"
+dependencies = []
+
+[metadata]

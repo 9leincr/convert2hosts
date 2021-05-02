@@ -1,0 +1,13 @@
+
+[tool.pyflow]
+name = "convert2hosts"
+py_version = "3.9"
+version = "0.1.0"
+authors = ["9leincr"]
+
+[tool.pyflow.scripts]
+
+[tool.pyflow.dependencies]
+tinydb = "4.4.0"
+
+[tool.pyflow.dev-dependencies]
