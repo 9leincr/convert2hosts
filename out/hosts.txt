@@ -6,6 +6,7 @@
 127.0.0.1 2lwlh385os.com
 127.0.0.1 2mdn.info
 127.0.0.1 4clvr.jp
+127.0.0.1 4dex.io
 127.0.0.1 4dsply.com
 127.0.0.1 6ped2nd3yp.com
 127.0.0.1 82b9d6273154e7cbf.com
@@ -249,6 +250,7 @@
 127.0.0.1 adzerk.net
 127.0.0.1 adziondin.club
 127.0.0.1 adztec.com
+127.0.0.1 af.fukuishimbun.co.jp
 127.0.0.1 aff.jskyservices.com
 127.0.0.1 affil.jp
 127.0.0.1 affiliate.dtiserv.com
@@ -285,6 +287,7 @@
 127.0.0.1 aniview.com
 127.0.0.1 anonymousdemographics.com
 127.0.0.1 antennash.com
+127.0.0.1 anymind360.com
 127.0.0.1 aoredi.com
 127.0.0.1 aos-creative.prf.hn
 127.0.0.1 aoyou.idealads.net
@@ -485,6 +488,7 @@
 127.0.0.1 crosspromo.voodoo.io
 127.0.0.1 crwdcntrl.net
 127.0.0.1 crypto-loot.com
+127.0.0.1 cs.nakanohito.jp
 127.0.0.1 cs.r-ad.ne.jp
 127.0.0.1 csi.gstatic.com
 127.0.0.1 cstwpush.com
@@ -498,6 +502,7 @@
 127.0.0.1 d.somewrite.jp
 127.0.0.1 d141wsrw9m4as6.cloudfront.net
 127.0.0.1 d18g6t7whf8ejf.cloudfront.net
+127.0.0.1 d1ev866ubw90c6.cloudfront.net
 127.0.0.1 d1miuq6afqay8u.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d28nwox1gdjlve.cloudfront.net
@@ -523,6 +528,7 @@
 127.0.0.1 dlp4luwpus5kr.cloudfront.net
 127.0.0.1 dlv.itmedia.jp
 127.0.0.1 dm.bytedance.com
+127.0.0.1 dmmzkfd82wayn.cloudfront.net
 127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 doga.cm
 127.0.0.1 domain.dummy280280.net
@@ -562,6 +568,7 @@
 127.0.0.1 exosrv.com
 127.0.0.1 eyefuneve.com
 127.0.0.1 eyeota.net
+127.0.0.1 ezoic.net
 127.0.0.1 f9uri.mymobilelead.com
 127.0.0.1 fadslimz.com
 127.0.0.1 fam-8.net
@@ -579,6 +586,7 @@
 127.0.0.1 fivecdm.com
 127.0.0.1 fluct.jp
 127.0.0.1 flurry.com
+127.0.0.1 flux-cdn.com
 127.0.0.1 focas.jp
 127.0.0.1 fod-cm-ad-v.webcdn.stream.ne.jp
 127.0.0.1 for-ward.jp
@@ -755,6 +763,7 @@
 127.0.0.1 livelog.biz
 127.0.0.1 livelyoffers.club
 127.0.0.1 liverail.com
+127.0.0.1 livezombymil.com
 127.0.0.1 lmodr.biz
 127.0.0.1 loading-delivery2.com
 127.0.0.1 loadmill.com
@@ -1173,6 +1182,7 @@
 127.0.0.1 unitedblades.jp
 127.0.0.1 unityads.unity3d.com
 127.0.0.1 unthem.com
+127.0.0.1 uselnk.com
 127.0.0.1 user.in.net
 127.0.0.1 userdive.com
 127.0.0.1 useurmind.com
@@ -1207,6 +1217,7 @@
 127.0.0.1 webtracker.jp
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtrendslive.com
+127.0.0.1 whazugho.com
 127.0.0.1 whos.amung.us
 127.0.0.1 widget-view.dmm.co.jp
 127.0.0.1 widget.cybershop-affiliate.jp
